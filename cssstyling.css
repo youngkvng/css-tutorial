@@ -1,0 +1,26 @@
+h1 {
+    background: red;
+    color: white;
+    font family:arial black;
+    font size: 18px;
+    text-align:center;
+    text weight: 20em;
+    padding: 10px;
+    margin: 5px;
+   font weight: bold;
+}
+/* body */
+body{
+    background-position: 5%;
+    background: grey;
+    color: white;
+    word-spacing: 0px;
+    letter-spacing: 0em;
+    margin:3px;
+    text weight:10em;
+    font: 800 18px arial black san-serifs;
+}
+.sub heading{
+    background: red;
+    color:green;
+}
